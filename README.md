@@ -20,22 +20,26 @@ The `tokens` folder contains token designs as SVG image files. To add a token, c
 
 ## Links
 
-Create/modify SVG files - https://boxy-svg.com/
-Print documents - https://www.lucidpress.com/
-13x18cm photo print paper - https://www.amazon.co.uk/gp/product/B004ZHBRS8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
-Example circle puncher, different sizes - https://www.ebay.co.uk/itm/313110464237
-Example epoxy resin stickers 1inch (25mm) - https://www.amazon.co.uk/gp/product/B07RSBH72Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+- Create/modify SVG files - https://boxy-svg.com/
+- Print documents - https://www.lucidpress.com/
+- 13x18cm photo print paper - https://www.amazon.co.uk/gp/product/B004ZHBRS8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+- Circle puncher 25mm - https://www.ebay.co.uk/itm/313110464237
+- Epoxy resin stickers 1inch (25mm) - https://www.amazon.co.uk/gp/product/B07RSBH72Y/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
 ## Icons attribution
 
 All icons were obtainted from the https://thenounproject.com/ and are under the https://creativecommons.org/licenses/by/3.0/.
 
-Sword by Ifki rianto from the Noun Project
-medals by Trishul from the Noun Project
-strong by counloucon from the Noun Project
-Security by i cons from the Noun Project
-run by Gregor Cresnar from the Noun Project
-tactics by Grafix Point from the Noun Project
-Prayer by Marek Polakovic from the Noun Project
-Missed Call by Trevor Dsouza from the Noun Project
-magic by Phạm Thanh Lộc from the Noun Project
+- Sword by Ifki rianto from the Noun Project
+- medals by Trishul from the Noun Project
+- strong by counloucon from the Noun Project
+- Security by i cons from the Noun Project
+- run by Gregor Cresnar from the Noun Project
+- tactics by Grafix Point from the Noun Project
+- Prayer by Marek Polakovic from the Noun Project
+- Missed Call by Trevor Dsouza from the Noun Project
+- magic by Phạm Thanh Lộc from the Noun Project
+
+## LICENSE
+
+See LICENSE file.
