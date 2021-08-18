@@ -2,6 +2,8 @@
  
 Tokens for playing wargames.
 
+![image](https://user-images.githubusercontent.com/1148118/129888715-c0d78422-b90a-4735-a197-867e48ffaa1d.png)
+
 ## Creating your tokens
 
 1. Grab a file from the `printables` directory and print it. The desired paper size and token size is in the name (ideally photo paper, but cheaper paper could work too).
